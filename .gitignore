@@ -1,0 +1,14 @@
+# Compiled files
+*.class
+out/
+
+# Data generated when the program runs
+medicines.csv
+sales.csv
+report-*.txt
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
